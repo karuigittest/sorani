@@ -490,12 +490,12 @@ ul.illust li.new::after {
 
 @media (max-width: 575px) {
   ul.illust li {
-    height: 70px;
-    width: 70px;
+    height: 170px;
+    width: 170px;
   }
   ul.illust li a img {
-    height: 70px;
-    width: 70px;
+    height: 170px;
+    width: 170px;
   }
 }
 
