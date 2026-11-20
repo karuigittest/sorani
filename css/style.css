@@ -878,3 +878,13 @@ blockquote {
     display: none;
   }
 }
+/* =================================
+   自分で追加した設定
+================================= */
+
+/* 段落につけるNEW */
+p.new::after {
+  content: " NEW";
+  color: red;
+  font-size: 12px;
+}
