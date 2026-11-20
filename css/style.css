@@ -450,8 +450,8 @@ ul.illust {
 
 ul.illust li {
   position: relative;
-  height: 300px;
-  width: 300px;
+  height: 100px;
+  width: 100px;
   margin-bottom: 5px;
 }
 
@@ -466,8 +466,8 @@ ul.illust li a {
 ul.illust li a img {
   border: 1px solid #dcdfe2;50
   border-radius: 3px;
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   -o-object-fit: cover;
      object-fit: cover;
 }
@@ -490,12 +490,12 @@ ul.illust li.new::after {
 
 @media (max-width: 575px) {
   ul.illust li {
-    height: 300px;
-    width: 300px;
+    height: 100px;
+    width: 100px;
   }
   ul.illust li a img {
-    height: 300px;
-    width: 300px;
+    height: 100px;
+    width: 100px;
   }
 }
 
