@@ -78,8 +78,8 @@ dl dt {
 
 a {
   text-decoration: none;
-  color: #54c6ff;
-  /* リンクの色 */
+  color: #FF7803;
+  /* リンクの色　前#54c6ff */
 }
 
 a:hover {
