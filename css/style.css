@@ -888,14 +888,3 @@ p.new::after {
   color: red;
   font-size: 12px;
 }
-/* 背景グラデーション */
-body,
-.container {
-  background: linear-gradient(
-    to bottom,
-    #fff0df 0%,
-    #faf2ed 40%,
-    #edf1f8 75%,
-    #e0efff 100%
-  ) !important;
-}
