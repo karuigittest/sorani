@@ -1,4 +1,4 @@
-@charset "UTF-8";
+す@charset "UTF-8";
 /* ==========================================
    Template: 空にうたえば（https://do.gt-gt.org/）
    Copyright: 2019 do
@@ -887,4 +887,22 @@ p.new::after {
   content: " NEW";
   color: red;
   font-size: 12px;
+}
+/* ■表示用 */
+ul.illust li.textlink {
+  width: auto;
+  height: auto;
+  margin-bottom: 5px;
+  margin-right: 5px;
+}
+
+/* ■のリンク部分 */
+ul.illust li.textlink a.fuwaimg {
+  display: inline-block;
+  width: auto;
+  height: auto;
+  padding: 2px;
+  font-size: 20px;
+  color: #777777;
+  text-decoration: none;
 }
