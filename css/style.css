@@ -910,3 +910,21 @@ ul.illust {
   list-style: none;
   padding-left: 0;
 }
+/* ギャラリーの箇条書きマーカーを消す */
+ul.illust,
+ul.illust li {
+  list-style-type: none !important;
+}
+
+/* リストの左側の余白も消す */
+ul.illust {
+  padding-left: 0 !important;
+}
+
+/* ■表示の枠 */
+ul.illust li.textlink {
+  width: auto !important;
+  height: auto !important;
+  margin-bottom: 5px;
+  margin-right: 5px;
+}
