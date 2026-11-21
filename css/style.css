@@ -888,11 +888,5 @@ p.new::after {
   color: red;
   font-size: 12px;
 }
-/* ■表示用 */
-ul.illust li.textlink {
-  width: auto;
-  height: auto;
-  margin-bottom: 5px;
-  margin-right: 5px;
-}
+
 
