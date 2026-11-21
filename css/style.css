@@ -906,6 +906,7 @@ ul.illust li.textlink a.fuwaimg {
   color: #777777;
   text-decoration: none;
 }
-ul.illust li.textlink {
+ul.illust {
   list-style: none;
+  padding-left: 0;
 }
