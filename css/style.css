@@ -888,5 +888,12 @@ p.new::after {
   color: red;
   font-size: 12px;
 }
+ul.illust {
+  list-style: none;
+  padding-left: 0;
+}
 
+ul.illust li {
+  list-style: none;
+}
 
